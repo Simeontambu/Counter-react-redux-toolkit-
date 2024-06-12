@@ -1,4 +1,4 @@
-# My React TypeScript Redux Toolkit App
+# My Counter React TypeScript Redux Toolkit App
 
 This is a simple project demonstrating the use of React with TypeScript, Redux Toolkit, and Vite.
 
